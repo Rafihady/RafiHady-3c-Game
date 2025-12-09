@@ -15,6 +15,7 @@ public class InputManager : MonoBehaviour
     public Action OnGliding;
     public Action OnCancellGlide;
     public Action OnPunchInput;
+    public Action OnMainMenuInput;
    
     void Update()
     {
@@ -140,7 +141,10 @@ public class InputManager : MonoBehaviour
 
         if (isPressMainMenuInput)
         {
-            Debug.Log("Back To Main Menu");
+            if (OnMainMenuInput != null)
+            {
+                OnMainMenuInput();
+            }
         }
     }
 }

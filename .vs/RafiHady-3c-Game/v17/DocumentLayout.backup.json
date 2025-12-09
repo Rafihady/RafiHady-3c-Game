@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|c:\\users\\rafi hady alghazy\\onedrive\\dokumen\\agatecourse\\rafihady-3c-game\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\cameramanage\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameramanage\\cameramanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\player\\playeraudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playeraudiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\cameramanage\\camerastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cameramanage\\camerastate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\gameplaymanager\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameplaymanager\\gameplaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\scenemanagament\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenemanagament\\mainmenumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\assets\\script\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6370F8-C633-CC99-77C9-D47DA70C4B08}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player\\playerstance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +38,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lit.shader",
+              "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.universal@14.0.12\\Shaders\\Lit.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-12-09T10:55:47.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PlayerAudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\Player\\PlayerAudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerAudioManager.cs",
+              "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\Player\\PlayerAudioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\Player\\PlayerAudioManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T14:35:06.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameplayManager.cs",
+              "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\GameplayManager\\GameplayManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameplayManager\\GameplayManager.cs",
+              "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\GameplayManager\\GameplayManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameplayManager\\GameplayManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:44:48.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainMenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\SceneManagament\\MainMenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SceneManagament\\MainMenuManager.cs",
+              "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\SceneManagament\\MainMenuManager.cs",
+              "RelativeToolTip": "Assets\\Script\\SceneManagament\\MainMenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-07T12:37:14.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "InputManager.cs",
               "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\InputManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\InputManager.cs",
               "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\InputManager.cs",
               "RelativeToolTip": "Assets\\Script\\InputManager.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAIwIMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAmwJYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T14:16:33.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T14:16:33.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CameraManager.cs",
-              "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\CameraManage\\CameraManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CameraManage\\CameraManager.cs",
-              "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\CameraManage\\CameraManager.cs",
-              "RelativeToolTip": "Assets\\Script\\CameraManage\\CameraManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T13:40:03.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "PlayerStance.cs",
               "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\Player\\PlayerStance.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Player\\PlayerStance.cs",
@@ -68,33 +111,19 @@
               "RelativeToolTip": "Assets\\Script\\Player\\PlayerStance.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T13:38:50.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T13:38:50.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CameraState.cs",
-              "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\CameraManage\\CameraState.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CameraManage\\CameraState.cs",
-              "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\CameraManage\\CameraState.cs",
-              "RelativeToolTip": "Assets\\Script\\CameraManage\\CameraState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T13:38:28.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\PlayerController.cs",
               "ToolTip": "C:\\Users\\rafi hady alghazy\\OneDrive\\Dokumen\\AgateCourse\\RafiHady-3c-Game\\Assets\\Script\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Script\\PlayerController.cs",
-              "ViewState": "AgIAABsBAAAAAAAAAAAqwCwBAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAACYBAAAAAAAAAAD4vzoBAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T09:30:31.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-01T09:30:31.121Z"
             }
           ]
         }

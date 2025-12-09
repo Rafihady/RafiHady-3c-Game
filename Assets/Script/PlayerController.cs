@@ -53,17 +53,19 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private LayerMask HitLayer;
     [SerializeField] private float HitDetectorRadius;
 
+    [SerializeField] private PlayerAudioManager playerAudioManager;
+
     private PlayerStance playerstance;
     Rigidbody rb;
 
     private void Awake()
     {
+        hideandlockCursor();
         animator = GetComponent<Animator>();
         PlayerCollider = GetComponent<CapsuleCollider>();
         rb = GetComponent<Rigidbody>();
         speed = walkspeed;
         playerstance = PlayerStance.Stand;
-        hideandlockCursor();
     }
     void Start()
     {
@@ -98,7 +100,6 @@ public class PlayerController : MonoBehaviour
     {
         CheckGrounded();
         CheckStep();
-        hideandlockCursor();
         Glide();
     }
 
@@ -300,6 +301,7 @@ public class PlayerController : MonoBehaviour
             playerstance = PlayerStance.Glide;
             animator.SetBool("IsGliding", true);
             cameraManager.setFPSClampedCamera(true, transform.rotation.eulerAngles);
+            playerAudioManager.PlayGlidingSFX();
         }
     }
 
@@ -310,6 +312,7 @@ public class PlayerController : MonoBehaviour
             playerstance = PlayerStance.Stand;
             animator.SetBool("IsGliding", false);
             cameraManager.setFPSClampedCamera(false, transform.rotation.eulerAngles);
+            playerAudioManager.StopGlidingSFX();
         }
     }
 
